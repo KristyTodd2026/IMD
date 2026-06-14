@@ -21,6 +21,10 @@
             max-width: 500px;
             padding: 20px;
         }
+        img {
+            width: 150px;
+            margin-bottom: 20px;
+        }
         h1 {
             font-size: 2.5rem;
             margin-bottom: 10px;
@@ -33,6 +37,7 @@
 </head>
 <body>
     <div class="container">
+        <img src="IMD logo.png" alt="IMD Logo">
         <h1>Coming Soon</h1>
         <p>This website is currently under construction.</p>
     </div>
